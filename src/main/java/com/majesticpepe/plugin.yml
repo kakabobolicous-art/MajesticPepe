@@ -1,0 +1,20 @@
+name: MajesticPepe
+version: 1.0.0
+main: com.majesticpepe.MajesticPepe
+api-version: 1.21
+description: Pepe Gang Must Perish
+authors: [PepeGang]
+
+commands:
+  shop:
+    description: Open Pepe Gang shop
+    usage: /shop
+  team:
+    description: Assign player to team
+    usage: /team <player> <pepe|poposhir|none>
+  pepeinfo:
+    description: View your stats
+    usage: /pepeinfo
+  kills:
+    description: Kill leaderboard
+    usage: /kills
